@@ -16,3 +16,18 @@ print(type(mahabub1))
 
 mahabub3  = 4200j
 print(type(mahabub3))
+
+
+# String Type Data
+yourName = "hello world"
+myName = "Mahabub Alom"
+print("my name is" + ' ' + myName)
+
+# boolen type Data
+Bool = True
+print(Bool)
+print(type(Bool))
+
+x = 8
+y = 10
+print(x < y)
